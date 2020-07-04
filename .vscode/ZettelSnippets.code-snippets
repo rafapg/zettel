@@ -2,12 +2,12 @@
 	"Empty Zettel Complete Note" : {
 		"prefix": "zett",
 		"body": [
+			"# $TM_FILENAME_BASE",
 			"$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR-$CURRENT_MINUTE",
 			"> tags:",
 			"",
 			"> references:",
 			"---",
-			"# $TM_FILENAME_BASE",
 			"",
 			"---",
 			"Links:",
