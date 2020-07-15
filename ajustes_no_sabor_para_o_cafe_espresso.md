@@ -14,13 +14,17 @@ Os métodos de extração de café buscam sempre entregar na xícara o máximo d
 No café espresso, buca-se um equilíbrio entre
  - doçura;
  - acidez;
- - e corpo
+ - e corpo.
 
 Para alcançar o equilíbrio maximizando essas 3 características alteramos as variáveis:
  - dose
  - moagem
  - tempo de extração
 
+1. Se o sabor está sem graça, os açúcares do café provavelmente estão encobrindo as outras notas. Para manter o corpo, mas adicionar outros sabores, deixando a moagem mais grossa e aumentando a dose, de forma a manter o fluxo de extração.
+2. Se o sabor está agressivo (excesso de notas), provavelmente faltam açúcares do café. Neste caso atua-se de forma inversa, usando uma moagem mais fina e uma dose menor, de forma a mater o fluxo de extração
+3. Se o sabor é muito brilhante (ácidos como limão, frutas, maçã e vinho) é necessário fazer uma extração mais lenta, usando uma moagem mais fina e mantendo a dose.
+4. Se o sabor é muito amargo (madeira ou torrada nas torras mais claras; tabaco ou cravo nas torras mais escuras) é necessário fazer uma extração mais rápida, usando uma moagem mais grossa e mantendo a dose.
 
 ---
 Links:
