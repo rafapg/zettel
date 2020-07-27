@@ -4,7 +4,7 @@
 
 > tags:
 > #desenvolvimento #arquitetura
-
+> 
 > references:
 > [Clean Architecture Blog Post - Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 ---
@@ -26,7 +26,7 @@ São as regras de negócio mais abrangentes, que dizem respeito a diversas funci
 
 ### Use Case
 
-Cada Use Case é a implementação da regra de negócio de uma funcionalidade específica. Essa implementação pode depender de alguma regra do tipo Enterprise Business Rule, mas o restante da lógica deve ser todo implementado dentro dessa mesma camada. 
+Cada Use Case é a implementação da regra de negócio de uma funcionalidade específica. Essa implementação pode depender de alguma regra do tipo Enterprise Business Rule, mas o restante da lógica deve ser todo implementado dentro dessa mesma camada.
 
 Para ter acesso a dados externos (como serviços, bancos de dados, etc..) são criados Gateways nessa camada. Os gateways são interfaces para implementações de adpters (da camada Interface Adapters) que são setados via Injeção de Dependência. Dessa forma não existe uma dependência direta para a implementação, mas sim uma dependência para uma interface que é definida dentro da própria camada Use Case
 
@@ -45,5 +45,4 @@ O conceito de Arquitetura Limpa não nos obriga ter uma quantidade pré-estabele
 ---
 
 Links:
-
->   - 
+>
