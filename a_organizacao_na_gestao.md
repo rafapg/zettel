@@ -2,7 +2,6 @@
 
 2020-07-31 14-40
 > tags: #liderança #computação #carreira
-
 > references:
 > Will Larson, An Elegant Puzzle: Systems of Eng Management (book)
 ---
