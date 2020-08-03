@@ -8,5 +8,21 @@
     "editor.quickSuggestions": true
   },
   "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync"
+  "git.postCommitCommand": "sync",
+  "spellright.language": [
+    "Portuguese (Brazilian)",
+    "Portuguese (European - Before OA 1990)",
+    "Portuguese (European)",
+    "en_GB",
+    "en_US",
+    "pt_BR (VERO)",
+    "pt_BR",
+    "pt_PT (VERO)",
+    "pt_PT"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
 }
