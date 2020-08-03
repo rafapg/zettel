@@ -2,7 +2,6 @@
 
 2020-07-31 14-54
 > tags: #liderança #computação #carreira #time
-
 > references:
 > Will Larson, An Elegant Puzzle: Systems of Eng Management (book)
 ---
@@ -15,7 +14,6 @@ Segundo Will Larson, autor do livro "Am Elegant Puzzle: System of Engineering Ma
 Gestores com poucos engenheiros acabam exercendo funções mistas de liderança e execução (TechLead Manager). Enquanto isso pode levar a um bom resultado, também é uma posição um pouco difícil de evoluir, pois o próximo passo só pode ser em uma das direções.
 
 Gestores com muitos engenheiros tendem a não conseguir acompanhar todos os pontos importantes e acabam atuando como coaches ou uma rede de segurança para os liderados.
- 
 
 ## Gerentes de gestores
 
@@ -28,4 +26,4 @@ Gerentes que lideram muitos gestores acabam trabalhando como um coach para a sol
 ---
 Links:
 
->   - 
+> -
