@@ -5,7 +5,7 @@
 > references:
 > Will Larson, An Elegant Puzzle: Systems of Eng Management (book)
 ---
-A quantidade de pessoas lideradas por um gestor afeta diretamente no modo do gestor realizar o seu trabalh, gerando impactos colaterais no desempenho do time e em sua carreira.
+A quantidade de pessoas lideradas por um gestor afeta diretamente no modo do gestor realizar o seu trabalho, gerando impactos colaterais no desempenho do time e em sua carreira.
 
 Nesta discussão sobre os impactos são apresentados propostas de tamanhos de times. São valores que apresentam bons resultados práticos, mas cada contexto pode ter variações desses valores.
 
